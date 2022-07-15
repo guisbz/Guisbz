@@ -18,7 +18,7 @@
 
 </div>
 
-![Snake animation](https://github.com/gui.sbz/guisbz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guisbz/guisbz/blob/output/github-contribution-grid-snake.svg)
 
 
 
