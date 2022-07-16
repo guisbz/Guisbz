@@ -1,4 +1,4 @@
-## Olá ! Eu sou o Guilherme! 👋
+## Olá ! Eu sou o Guilherme Barboza! 👋
 
 - 🔭 Hoje estudo as linguagens Java e C#
 - 👯 Procuro trabalhar com desenvolvimento de Software
