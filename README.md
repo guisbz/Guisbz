@@ -3,7 +3,7 @@
 - 🔭 Hoje eu estudo as linguagens Java, JavaScript, e C#, assim como estudo também HTML5 e CSS3
 - 👯 Comecei na área através da curiosidade, me identifiquei, e hoje procuro me tornar competente para desenvolver softwares e sites
 - 🚀 Pretendo trabalhar na área assim que possível, preferencialmente no Front-End
-- 📫 Estou Cursando Análise e Desenvolvimento de Sistemas no CEUB, no 2º Semestre
+- 📫 Estou Cursando Análise e Desenvolvimento de Sistemas no CEUB, no 3º Semestre
 - 🎃 Atualmente estou muito interessado em vagas de estágio na região de brasília ou remoto, caso se interesse pelos meus projetos e meu perfil, é só entrar em contato pelas minhas redes sociais!
 
 
