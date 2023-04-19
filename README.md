@@ -1,6 +1,6 @@
-## Olá ! Seja bem vindo! Eu sou o Guilherme Barboza! 👋
+## Olá ! Eu sou o Guilherme Barboza! 👋
 
-- 🔭 Eu estudo as linguagens Java, php, JavaScript, C#, assim como estudo também HTML5 e CSS3
+- 🔭 Hoje eu estudo as linguagens Java, php, JavaScript, C#, assim como estudo também HTML5 e CSS3
 - 👯 Comecei na área através da curiosidade, me identifiquei, e hoje procuro me tornar competente para desenvolver softwares e sites
 - 🚀 Pretendo trabalhar na área assim que possível, preferencialmente no Front-End
 - 📫 Estou Cursando Análise e Desenvolvimento de Sistemas no CEUB, no 3º Semestre
