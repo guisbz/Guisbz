@@ -1,9 +1,9 @@
 ## Olá ! Eu sou o Guilherme Barboza! 👋
 
-- 🔭 Hoje eu estudo as linguagens Java, php, JavaScript, C#, assim como estudo também HTML5 e CSS3
-- 👯 Comecei na área através da curiosidade, me identifiquei, e hoje procuro me tornar competente para desenvolver softwares e sites
-- 🚀 Pretendo trabalhar na área assim que possível, preferencialmente no Front-End
-- 📫 Estou Cursando Análise e Desenvolvimento de Sistemas no CEUB, no 3º Semestre
+- 🔭 Hoje eu estudo e programo nas linguagens Flutter/Dart, HTML/CSS e JavaScript, mas meu foco tem sido no Flutter
+- 👯 Comecei na área através da curiosidade, me identifiquei, e hoje procuro me tornar competente para utilizar meu conhecimento para ajudar as empresas de tecnologia
+- 🚀 1 ano de experiência profissional, tenho experiência com Pascal/Delphi e Flutter (Front-End/Back-End e um pouco de Banco de Dados)
+- 📫 Superior completo em Análise e Desenvolvimento de Sistemas - CEUB
 - 🎃 Atualmente estou muito interessado em vagas de estágio na região de brasília ou remoto, caso se interesse pelos meus projetos e meu perfil, é só entrar em contato pelas minhas redes sociais!
 
 
