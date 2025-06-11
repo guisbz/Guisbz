@@ -1,6 +1,6 @@
-## Olá ! Eu sou o Guilherme Barboza! 👋
+## Olá ! Eu sou o Guilherme Barboza! Venha conhecer meus Projetos!👋
 
-- 🔭 Possuo Conhecimento em Flutter/Dart, HTML, CSS, Pascal/Delphi, SQL, PHP e mais algumas outras competências como por exemplo IA
+- 🔭 Conhecimento em Flutter/Dart, HTML, CSS, Pascal/Delphi, SQL, PHP e mais algumas outras competências como por exemplo IA
 - 🚀 1 ano de experiência profissional, tenho experiência prática com Pascal/Delphi e Flutter (Front-End/Back-End e um pouco de Banco de Dados)
 - 🧑‍💻 Tenho vários certificados Alura, pretendo sempre me aprimorar na área e atualmente estou me formando de forma autônoma em Front-End, para depois me formar na área de Back-End e IA
 - 📫 Superior completo em Análise e Desenvolvimento de Sistemas - CEUB
