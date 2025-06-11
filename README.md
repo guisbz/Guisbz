@@ -1,10 +1,10 @@
 ## Olá ! Eu sou o Guilherme Barboza! 👋
 
-- 🔭 Hoje eu estudo e programo nas linguagens Flutter/Dart, HTML/CSS e JavaScript, mas meu foco tem sido no Flutter
-- 👯 Comecei na área através da curiosidade, me identifiquei, e hoje procuro me tornar competente para utilizar meu conhecimento para ajudar as empresas de tecnologia
-- 🚀 1 ano de experiência profissional, tenho experiência com Pascal/Delphi e Flutter (Front-End/Back-End e um pouco de Banco de Dados)
+- 🔭 Possuo Conhecimento em Flutter/Dart, HTML, CSS, Pascal/Delphi, SQL, PHP e mais algumas outras competências como por exemplo IA
+- 🚀 1 ano de experiência profissional, tenho experiência prática com Pascal/Delphi e Flutter (Front-End/Back-End e um pouco de Banco de Dados)
+- 🧑‍💻 Tenho vários certificados Alura, pretendo sempre me aprimorar na área e atualmente estou me formando de forma autônoma em Front-End, para depois me formar na área de Back-End e IA
 - 📫 Superior completo em Análise e Desenvolvimento de Sistemas - CEUB
-- 🎃 Atualmente estou muito interessado em vagas de estágio na região de brasília ou remoto, caso se interesse pelos meus projetos e meu perfil, é só entrar em contato pelas minhas redes sociais!
+- 🎃 Atualmente estou muito interessado em vagas de emprego na região de brasília ou remoto, caso se interesse pelos meus projetos e meu perfil, é só entrar em contato pelas minhas redes sociais!
 
 
 <div align="center">
