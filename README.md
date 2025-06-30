@@ -21,6 +21,14 @@ Estou em busca de **oportunidades como Desenvolvedor Júnior**, especialmente em
 
 Se você se interessar pelo meu perfil ou pelos projetos publicados aqui, não hesite em me contatar por guisbz.dev@gmail.com, ou pelo meu número de telefone e whatsapp: +55 61 99176-9447.
 
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo e publiquei no GitHub:
+
+### 🌐 Portfólio Pessoal (HTML/CSS)
+Site pessoal desenvolvido com HTML e CSS onde aplico conceitos de **responsividade, layout moderno e boas práticas de posicionamento**. Além de apresentar meu currículo e falar sobre mim, também compartilho links úteis, como artigos, dicas e conteúdos de estudo referênte a HTML e CSS.
+🔗 [Ver projeto no GitHub](https://github.com/guisbz/Portfolio)
+
 ---
 
 Obrigado pela visita!
