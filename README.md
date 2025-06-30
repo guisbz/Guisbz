@@ -1,11 +1,29 @@
-## Olá ! Eu sou o Guilherme Barboza! Venha conhecer meus Projetos!👋
+# 👋 Olá! Eu sou o Guilherme Barboza
 
--  💻 Possuo conhecimento em Flutter e Dart, Pascal e Delphi, HTML, CSS, SQL, PHP, e mais algumas outras competências, como por exemplo conhecimento com inteligências artificiais diversas
--  👔 1 ano de experiência profissional, tenho experiência prática em empresa com Pascal/Delphi e Flutter (Front-End/Back-End e um pouco de Banco de Dados)
--  🤖 Tenho vários certificados Alura, pretendo sempre me aprimorar na área e atualmente estou me formando de forma autônoma em Front-End, para depois me formar na área de Back-End e IA
--  🎓 Superior completo em Análise e Desenvolvimento de Sistemas - CEUB
--  🏢 Atualmente estou muito interessado em vagas de emprego na região de brasília ou remoto, caso se interesse pelos meus projetos e meu perfil, é só entrar em contato pelas minhas redes sociais!
+Sou desenvolvedor em início de carreira, formado em Análise e Desenvolvimento de Sistemas pelo CEUB, com 1 ano de experiência prática em projetos profissionais durante meu estágio.
 
+## 💻 Tecnologias que utilizo:
+- **Flutter/Dart**
+- **Pascal**
+- **Delphi**
+- **Java**
+- **JavaScript**
+- **HTML, CSS, PHP, FireBase, MySQL, WordPress, Git/Github**
+- E também possuo familiaridade com uso de **Inteligências Artificiais**
+
+## 📚 Formação e Desenvolvimento:
+- 🎓 Graduação completa em Análise e Desenvolvimento de Sistemas – CEUB
+- 📜 Diversos certificados pela Alura
+- 🚀 Atualmente focado em aprimorar habilidades em **Front-End** e, em seguida, avançar para **Back-End** e intensificar meus conhecimentos na área de **Inteligência Artificial**
+
+## 💼 O que estou buscando:
+Estou em busca de **oportunidades como Desenvolvedor Júnior**, especialmente em **Brasília, Curitiba ou modelo remoto**. Estou pronto para contribuir com dedicação e aprender continuamente com o time.
+
+Se você se interessar pelo meu perfil ou pelos projetos publicados aqui, não hesite em me contatar por guisbz.dev@gmail.com, ou pelo meu número de telefone e whatsapp: +55 61 99176-9447.
+
+---
+
+Obrigado pela visita!
 
 <div align="center">
   <a href="https://github.com/guisbz">
