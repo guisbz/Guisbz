@@ -27,7 +27,7 @@ Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo e publique
 
 ### 🌐 Portfólio Pessoal (HTML/CSS)
 Site pessoal desenvolvido com HTML e CSS onde aplico conceitos de **responsividade, layout moderno e boas práticas de posicionamento**. Além de apresentar meu currículo e falar sobre mim, também compartilho links úteis, como artigos, dicas e conteúdos de estudo referênte a HTML e CSS.
-🔗 [Ver projeto no GitHub](https://github.com/guisbz/Portfolio)
+🔗 [Ver projeto no GitHub](https://github.com/guisbz/Portfolio), [Acessar página](https://portfolio-kappa-black-97.vercel.app)
 
 ---
 
